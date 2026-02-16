@@ -1,11 +1,11 @@
 # Site settings
-title: Peng Blog
-SEOTitle: 彭俊杰的博客 | Peng Blog
+title: Hux Blog
+SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: pjj1939aa@gmail.com
-description: ""
-keyword: ""
-url: "https://junjiepeng123.github.io/" # your host, for absolute URL
+email: huxpro@gmail.com
+description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username: huxpro
-# zhihu_username: huxpro
-github_username: junjiepeng123
-# twitter_username: huxpro
+weibo_username: huxpro
+zhihu_username: huxpro
+github_username: huxpro
+twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: http://disqus.com/by/disqus_cfv6kj3rKq
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: junjiepeng123.github.io
+ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "每天进步一点点"
-sidebar-avatar: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEQ9Z5pkqMde7hMGDLiMETVB3aiT6FNnQACWxwAAnUlmVRE2Erf_dyD-DoE.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
