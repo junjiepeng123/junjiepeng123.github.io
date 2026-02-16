@@ -89,3 +89,7 @@ service-worker: true
 page-mathjax: false
 
 
+friends:
+  [
+    
+  ]
