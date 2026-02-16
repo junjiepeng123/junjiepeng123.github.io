@@ -3,8 +3,8 @@ title: Peng Blog
 SEOTitle: 彭俊杰的博客 | Peng Blog
 header-img: img/home-bg.jpg
 email: pjj1939aa@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: ""
+keyword: ""
 url: "https://junjiepeng123.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -75,7 +75,7 @@ ga_domain: junjiepeng123.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "每天进步一点点"
-sidebar-avatar: https://github.com/junjiepeng123/files/blob/main/self.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEQ9Z5pkqMde7hMGDLiMETVB3aiT6FNnQACWxwAAnUlmVRE2Erf_dyD-DoE.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
