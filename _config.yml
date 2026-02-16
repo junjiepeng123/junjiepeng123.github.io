@@ -91,5 +91,5 @@ page-mathjax: false
 
 friends:
   [
-    {},
+    {title: "bilibili", url: "https://www.bilibili.com/"},
   ]
