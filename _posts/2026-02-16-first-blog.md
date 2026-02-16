@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Web 在继续离我们远去"
-subtitle: "After the release of Wechat Mini-Program"
+title: "RLHF算法演示"
+subtitle: "学习"
 author: "Peng"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
 tags:
-  - Web
-  - 微信
+  - RL
+  - LLM
 ---
+
+# PPO原理解析
+## PPO是RLHF领域极其热门的技术
